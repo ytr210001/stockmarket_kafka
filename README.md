@@ -16,5 +16,5 @@ I used Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
-- Apache Kafka
+6. Apache Kafka
 
